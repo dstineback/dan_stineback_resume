@@ -1,6 +1,6 @@
-Dan Stineback 
-Seattle, WA | dstineback@gmail.com | 360.910.0134 | linkedin.com/dannystineback
-I am a full-stack JavaScript developer with a background in digital marketing and management. Passionate about creating efficient development techniques to provide effective solutions.  
+Dan Stineback  
+Seattle, WA | dstineback@gmail.com | 360.910.0134 | linkedin.com/dannystineback  
+I am a full-stack JavaScript developer with a background in digital marketing and management. Passionate about creating efficient development techniques to provide effective solutions.    
 
 EDUCATION
 CODEFELLOWS, SEATTLE, WA Certificate in Full-stack JavaScript 2016 
@@ -22,7 +22,7 @@ Web Development: JavaScript, Node.js, MongoDB, REST API, JQuery, Mocha, Jasmine,
 PROJECTS
 Marketing
 Youth Force | June 2015 | https://docs.google.com/document/d/15NkOZhSehCbfK01v0KCdTeyx4sGD3c0iVJrECrYvCm0/edit?usp=sharing
-Digital Marketing Plan for non-profit client Youth Force. Used tactical strategies to allow the client to increase online awareness and boost SEO status.  
+Digital Marketing Plan for non-profit client Youth Force. Used tactical strategies to allow the client to increase online awareness and boost SEO status.    
 
 Web Development
 Plop.js | May 2016 | github.com/PLOPdotJS
@@ -31,12 +31,13 @@ Backend: Vorpal, Node.js, FS-extra
 
 Red Panda | July 2016 | http://projectredpanda.herokuapp.com/#/
 Content Management System designed to allow users to create a Bucket list.
-Frontend: Angular, SASS, Backend: Express, MongoDB, Node.js, Plopjs Testing: Karma, Mocha.
+Frontend: Angular, SASS,
+Backend: Express, MongoDB, Node.js, Plopjs Testing: Karma, Mocha.
 - Used Angular to efficiently design a modular web app, while incorporating SASS for stylistic layout.
 - Express was used to connect servers to MongoDB.  
 
 BrewHop | April 2016 | http://brewhop.herokuapp.com/
 Web application for beer connoisseurs to find beer type by breweries in Seattle.
-Frontend: Handlebars.js, JQuery, Page.js,
+Frontend: Handlebars.js, JQuery, Page.js
 Backend: SQL  
 - Built a single page web applications leveraging libraries to construct a MVC designed product.  
