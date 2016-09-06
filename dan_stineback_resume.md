@@ -1,13 +1,16 @@
 Dan Stineback  
-Seattle, WA | dstineback@gmail.com | 360.910.0134 | linkedin.com/dannystineback    
+Seattle, WA | dstineback@gmail.com | 360.910.0134 | linkedin.com/dannystineback  
+
 I am a full-stack JavaScript developer with a background in digital marketing and management. Passionate about creating efficient development techniques to provide effective solutions.    
 
 EDUCATION  
+
 CODEFELLOWS, SEATTLE, WA Certificate in Full-stack JavaScript 2016   
 UNIVERSITY OF WASHINGTON, SEATTLE, WA Certificate in Digital Marketing 2015   
 WASHINGTON STATE UNIVERSITY, PULLMAN, WA BS in Communications and Marketing 2004  
 
-EXPERIENCE
+EXPERIENCE  
+
 OPERATION MANAGER, BLUE FALLS MANUFACTURING — 2006-2016   
 •		Managed day to day logistical business activities, including purchasing and shipping. Scheduled employee routes for effective reliable service.
 
@@ -21,9 +24,9 @@ Marketing: Google Analytics, Google AdWords, SEO, SEM, PhotoShop, InDesign, Adob
 
 Web Development: JavaScript, Node.js, MongoDB, REST API, JQuery, Mocha, Jasmine, Karma, Chai, Vorpal, Angular.js, React, Ruby, PHP, WordPress, SQL, Handlebars.js, FS-extra, SASS, Github  
 
-PROJECTS  
+PROJECTS   
 
-Marketing  
+Marketing   
 
 Youth Force | June 2015 | https://docs.google.com/document/d/15NkOZhSehCbfK01v0KCdTeyx4sGD3c0iVJrECrYvCm0/edit?usp=sharing
 Digital Marketing Plan for non-profit client Youth Force. Used tactical strategies to allow the client to increase online awareness and boost SEO status.    
