@@ -1,4 +1,4 @@
-Dan Stineback
+Dan Stineback 
 Seattle, WA | dstineback@gmail.com | 360.910.0134 | linkedin.com/dannystineback
 I am a full-stack JavaScript developer with a background in digital marketing and management. Passionate about creating efficient development techniques to provide effective solutions.  
 
@@ -8,7 +8,7 @@ UNIVERSITY OF WASHINGTON, SEATTLE, WA Certificate in Digital Marketing 2015 
 WASHINGTON STATE UNIVERSITY, PULLMAN, WA BS in Communications and Marketing 2004  
 
 EXPERIENCE
-OPERATION MANAGER, BLUE FALLS MANUFACTURING — 2006-2016 
+OPERATION MANAGER, BLUE FALLS MANUFACTURING — 2006-2016   
 •		Managed day to day logistical business activities, including purchasing and shipping. Scheduled employee routes for effective reliable service.
 
 •		Built from ground up a profitable efficient service and delivery departments. Generating a 60% profit margin on overhead cost.
@@ -37,5 +37,6 @@ Frontend: Angular, SASS, Backend: Express, MongoDB, Node.js, Plopjs Testing: Kar
 
 BrewHop | April 2016 | http://brewhop.herokuapp.com/
 Web application for beer connoisseurs to find beer type by breweries in Seattle.
-Frontend: Handlebars.js, JQuery, Page.js, Backend: SQL
+Frontend: Handlebars.js, JQuery, Page.js,
+Backend: SQL  
 - Built a single page web applications leveraging libraries to construct a MVC designed product.  
