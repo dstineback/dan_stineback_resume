@@ -1,10 +1,10 @@
 Dan Stineback  
-Seattle, WA | dstineback@gmail.com | 360.910.0134 | linkedin.com/dannystineback  
+Seattle, WA | dstineback@gmail.com | 360.910.0134 | linkedin.com/dannystineback    
 I am a full-stack JavaScript developer with a background in digital marketing and management. Passionate about creating efficient development techniques to provide effective solutions.    
 
 EDUCATION
-CODEFELLOWS, SEATTLE, WA Certificate in Full-stack JavaScript 2016 
-UNIVERSITY OF WASHINGTON, SEATTLE, WA Certificate in Digital Marketing 2015 
+CODEFELLOWS, SEATTLE, WA Certificate in Full-stack JavaScript 2016   
+UNIVERSITY OF WASHINGTON, SEATTLE, WA Certificate in Digital Marketing 2015   
 WASHINGTON STATE UNIVERSITY, PULLMAN, WA BS in Communications and Marketing 2004  
 
 EXPERIENCE
